@@ -1,0 +1,34 @@
+Config {  font    = "xft:SpaceMono Nerd Font:pixelsize=16:antialias=true:hinting=true"
+       , additionalFonts = [] 
+
+       , bgColor = "#000000"
+       , fgColor = "#fff5ee"
+       , alpha = 1  
+       , position = Static { xpos = 1920, ypos = 0, width = 1920, height = 28} 
+       , textOffset = -1
+       , iconOffset = -1
+       , lowerOnStart = True
+       , pickBroadest = False
+       , persistent = True
+       , hideOnStart = False
+       , iconRoot = "."
+       , allDesktops = True
+       , overrideRedirect = True
+       , commands = [ Run Date "%H:%M:%S" "date" 10 
+       , Run UnsafeStdinReader
+                   
+       , Run MPD
+           [ "-t", "<title> - <remaining> <statei>", "--"
+           , "-P", ">>", "-Z", "||"
+           , "--host", "127.0.0.1"
+           ] 10
+
+
+ ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = "   %UnsafeStdinReader% | %mpd% } {%date%   " 
+
+}
+
+

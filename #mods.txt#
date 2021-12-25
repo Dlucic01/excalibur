@@ -1,0 +1,119 @@
+| - config file needed + ...
+! - files needed + ...
+H - help file needed + ...
+M - Explanation for mods + ...
+A - Arch Aur + ...
+###############################
+
+# Basic Themes
+Normal
+RGB
+Movie
+Nintendo
+Vibe
+
+# Additional System Themes
+
+
+## Dependencies / Technologies used
+
+#System
+Xorg
+NetworkManager
+Xmonad |
+Xmobar / Polybar(A) |
+Xlock 
+Emacs | M
+Vim | M
+Rofi | 
+Yi (WannaBe)
+Libreoffice
+Rar
+Zip
+Gtk - Theme
+Diskonaut A
+Console TDM A
+Joshuto - File manager M
+LSD - ls but better
+pfetch A
+Soulseekqt
+ssh-chat
+todo-bin A
+tty-clock A
+alsa-utils
+bandwhich
+bashtop
+bottom
+gping
+htop
+lxappearance
+rs-setwall A 
+picom yshui | A ++ 
+tldr
+zathura | ++
+Anime Cli A
+setwall-bin A
+
+#Terminal
+Cool Retro Term
+Alacritty | + (boje)
+
+
+#Media
+VLC
+Cmus
+mpc
+MPD | ++ 
+NCMPCPP | ++
+Bum (Python) A
+Fim A
+Free Tube - Free Youtube
+
+#Fun
+FCEUX - NES emulator
+eDEX-UI A
+golly - Conways game of life A
+mimic A
+2048-rs A
+
+#Terminal Apps
+Kalendar - khal |
+Cbonsai  A
+cowsay
+Cmatrix
+Neofetch
+To Do
+globe-cli A
+
+## Scripts
+Screensaver
+System
+Music
+
+
+## To Do
+Documentation - Overall, Scripts, Software, Dependencies, Usage, Configs, Keyboard
+Bashrc +
+Themes |_________
+Fonts ! ++
+Terminal Widgets
+Opening Scripts !
+Xmonad Configs |
+Xmonad Key Bindings 
+Xmobar Configs |
+Polybar Configs |
+Wallpaper ! ++
+See Useful XORG apps
+List of Games ! H
+List of Music ! H
+List of Emulators ! H
+Kodi
+Rofi Themes ! | ++
+Vim Themes |
+De-google (firefox, mail)
+
+Ready for Christmas reinstall with
+Installation Script
+
+
+

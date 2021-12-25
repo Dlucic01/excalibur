@@ -1,0 +1,46 @@
+sw_volume: 100
+audio_device_state:1:my_fifo
+audio_device_state:0:MyRadio
+audio_device_state:1:ALSA sound card
+state: play
+current: 24
+time: 254.191000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Black Sabbath - 1970 - Paranoid [NELCD 6003]/01 - War Pigs.flac
+1:Black Sabbath - 1970 - Paranoid [NELCD 6003]/02 - Paranoid.flac
+2:Black Sabbath - 1970 - Paranoid [NELCD 6003]/03 - Planet Caravan.flac
+3:Black Sabbath - 1970 - Paranoid [NELCD 6003]/04 - Iron Man.flac
+4:Black Sabbath - 1970 - Paranoid [NELCD 6003]/05 - Electric Funeral.flac
+5:Black Sabbath - 1970 - Paranoid [NELCD 6003]/06 - Hand Of Doom.flac
+6:Black Sabbath - 1970 - Paranoid [NELCD 6003]/07 - Rat Salad.flac
+7:Black Sabbath - 1970 - Paranoid [NELCD 6003]/08 - Fairies Wear Boots.flac
+8:Black Sabbath - 1970 - Paranoid [NELCD 6003]/09 - Wicked World (Live).flac
+9:MusicArchivist1337/2011 - Portal 2 Soundtrack_ Songs To Test By - Aperture Science Psychoacoustics Laboratory/44 - Portal 2 Soundtrack_ Songs To Test By - Aperture Science Psychoacoustics Laboratory - Machiavellian Bach.flac
+10:11 Theme from 'Love Story'.flac
+11:The_Court_of_the_Crimson_King/01 21st Century Schizoid Man.flac
+12:The_Court_of_the_Crimson_King/02 I Talk To The Wind.flac
+13:The_Court_of_the_Crimson_King/03 Epitaph.flac
+14:The_Court_of_the_Crimson_King/04 Moonchild.flac
+15:The_Court_of_the_Crimson_King/05 The Court Of The Crimson King.flac
+16:Metropolis, Part 2: Scenes From a Memory/09 - Act II: Scene Seven: I. The Dance of Eternity.flac
+17:2013 - Random Access Memories/03. Giorgio by Moroder.flac
+18:02 - Crazy Train.flac
+19:2013 - Random Access Memories/05. Instant Crush.flac
+20:Ghost Reveries/01 Ghost of Perdition.flac
+21:Master Of Reality/01 Sweet Leaf.flac
+22:Black Sabbath - 1970 - Paranoid [NELCD 6003]/02 - Paranoid.flac
+23:0494. Rush - Moving Pictures (1981)/3. Rush - YYZ.flac
+24:1975 - wish you were here/03 - Have A Cigar.flac
+25:Master Of Reality/05 Orchid.flac
+26:2013 - Random Access Memories/03. Giorgio by Moroder.flac
+27:Master Of Reality/03 Embryo.flac
+28:Metropolis, Part 2: Scenes From a Memory/09 - Act II: Scene Seven: I. The Dance of Eternity.flac
+29:boroborob/Pink.Floyd-The.Wall.Experience.Edition.2012.FLAC-BHO/206. Comfortable Numb.flac
+playlist_end
